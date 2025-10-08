@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @johnandelin
-- 👀 I’m interested in statistics, data science, epidemiology
-- 🌱 I’m currently a student
+- 👋 Hi, I’m @johnandelin. 
+- 👀 My interests include statistics, biostatistics, data science, crime analysis, and epidemiology. 
+- 🌱 I’m currently a student at Brigham Young University pursuing a degree in applied statistics. 
 
 <!---
 johnandelin/johnandelin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
